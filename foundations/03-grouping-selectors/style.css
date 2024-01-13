@@ -1,0 +1,23 @@
+.firstElement {
+    background-color: black;
+    color:white;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+
+
+}
+
+.secondElement{
+
+    background-color: yellow;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    
+
+
+
+}
+
+.secondElement, 
+.firstElement {
+    font-size: 28px;
+
+}
